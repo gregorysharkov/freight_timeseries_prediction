@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+pandas
+prophet
+ydata-profiling
+statsmodels

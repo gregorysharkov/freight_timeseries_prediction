@@ -3,4 +3,4 @@ jupyter
 pandas
 prophet
 ydata-profiling
-statsmodels
+statsmodelsgi

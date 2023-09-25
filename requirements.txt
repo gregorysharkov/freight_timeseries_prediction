@@ -3,4 +3,6 @@ jupyter
 pandas
 prophet
 ydata-profiling
-statsmodelsgi
+statsmodels
+scikit-learn
+hyperopt
